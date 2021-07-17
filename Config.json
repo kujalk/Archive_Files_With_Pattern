@@ -1,0 +1,17 @@
+{
+    "Archive":[
+        {
+            "Source":"Installer\\Anaconda\\Anaconda.exe",
+            "Destination":"Files\\Anaconda"
+        },
+        {
+            "Source":"Installer\\File1\\InstallScript*.ps1",
+            "Destination":"Files\\InstallScript"
+        },
+        {
+            "Source":"Installer\\File2\\bin*",
+            "Destination":"Files\\Bin"
+        }
+    ],
+    "RootArchiveFolder":"DataBundle"
+}
