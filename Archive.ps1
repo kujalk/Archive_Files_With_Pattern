@@ -2,6 +2,7 @@
 Purpose - To create a Zip folder from specified location
 Date - 16/7/2021
 Version - 1.0
+Developer - K.Janarthanan
 #>
 
 [CmdletBinding()]
